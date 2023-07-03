@@ -1,0 +1,94 @@
+0.93
+1.1
+0.8
+1.5
+0.8
+1.2
+0.8
+1.2
+1
+3
+2
+3
+2
+3
+20
+40
+10
+20
+5
+15
+10
+20
+15
+25
+15
+25
+15
+25
+0.50
+0.70
+0.15
+0.30
+0.4
+0.6
+0.4
+0.6
+8
+12
+6
+10
+1.8
+2.2
+0.5
+3
+0.5
+3
+
+
+rapport vitesse inf (a)
+rapport vitesse sup (a)
+coeff distance secu inf (a)
+coeff distance secu sup (a)
+coeff acceleration inf (a)
+coeff acceleration sup (a)
+coeff deceleration inf (a)
+coeff deceleration sup (a)
+temps de réaction stop and go inf (s)
+temps de réaction stop and go sup (s)
+décélération arrière inf (m/s²)
+décélération arrière sup (m/s²)
+décélération avant inf (m/s²)
+décélération avant sup (m/s²)
+temps etat stop and go inf (s)
+temps etat stop and go sup (s)
+temps etat changement de voie regime lent inf (s)
+temps etat changement de voie regime lent sup (s)
+temps etat neutre regime lent inf (s)
+temps etat neutre regime lent sup (s)
+temps etat changement de voie inf (s)
+temps etat changement de voie sup (s)
+temps etat ralentissement inf (s)
+temps etat ralentissement sup (s)
+temps etat acceleration inf (s)
+temps etat acceleration sup (s)
+temps etat neutre inf (s)
+temps etat neutre sup (s)
+proba stop and go inf (a)
+proba stop and go sup (a)
+proba changement de voie regime lent inf (a)
+proba changement de voie regime lent sup (a)
+proba acceleration inf (a)
+proba acceleration sup (a)
+proba ralentissement inf (a)
+proba ralentissement sup (a)
+condition vitesse regime lent inf (m/s)
+condition vitesse regime lent sup (m/s)
+condition distance regime lent inf (m)
+condition distance regime lent sup (m)
+condition différence de vitesse voulue voie gauche inf (m/s)
+condition différence de vitesse voulue voie gauche sup (m/s)
+etat acceleration valeur inf (m/s²)
+etat acceleration valeur sup (m/s²)
+etat ralentissement valeur inf (m/s²)
+etat ralentissement valeur sup (m/s²)
